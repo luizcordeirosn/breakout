@@ -1,0 +1,535 @@
+# depslib dependency file v1.0
+1508876915 source:c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1508876799 c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\menu.h
+
+1508876801 source:c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"tabuleiro.h"
+
+1508813618 c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\tabuleiro.h
+
+1508875614 source:c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1508872741 c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\loading.h
+
+1508873303 source:c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1508878260 c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\pecas.h
+
+1508878556 source:c:\users\luizlucildo\desktop\luiz neto\upe\lpi\jogo\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1508940144 source:c:\users\luiz117287\downloads\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1508940144 c:\users\luiz117287\downloads\jogo\menu.h
+
+1508940146 c:\users\luiz117287\downloads\jogo\tabuleiro.h
+
+1510595387 source:c:\users\luiz117287\downloads\jogo\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1510590673 source:c:\users\luiz117287\downloads\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1508940142 c:\users\luiz117287\downloads\jogo\pecas.h
+
+1510590587 source:c:\users\luiz117287\downloads\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1508940142 source:c:\users\luiz117287\downloads\jogo\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1508940144 c:\users\luiz117287\downloads\jogo\funcao.h
+
+1510689739 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1510796687 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510577544 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\menu.h
+
+1510692530 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1510577546 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\tabuleiro.h
+
+1510577542 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\pecas.h
+
+1510796891 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1510577544 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\funcao.h
+
+1510796765 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1511372433 source:c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511372433 c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\menu.h
+
+1511377437 source:c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1511377437 c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\tabuleiro.h
+
+1511372432 c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\pecas.h
+
+1511378426 source:c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1511373108 source:c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511378295 source:c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1511372433 c:\aluno\luiz117287\downloads\jogo-20171122t163825z-001\jogo\funcao.h
+
+1511383930 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511383930 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\menu.h
+
+1511383930 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511383934 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\tabuleiro.h
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\pecas.h
+
+1511460050 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"pecas.h"
+
+1511461996 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\ajuste_jogo\funcao.h
+
+1511463936 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511462398 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\funcao.h
+
+1511463488 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+
+1511383934 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\tabuleiro.h
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\pecas.h
+
+1511463167 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511383930 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\menu.h
+
+1511463894 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511442546 source:c:\users\luiz117287\downloads\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511442550 c:\users\luiz117287\downloads\breakout\tabuleiro.h
+
+1511442546 c:\users\luiz117287\downloads\breakout\pecas.h
+
+1511442546 c:\users\luiz117287\downloads\breakout\funcao.h
+
+1511442548 source:c:\users\luiz117287\downloads\breakout\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+
+1511442546 source:c:\users\luiz117287\downloads\breakout\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511804692 source:c:\users\luiz117287\downloads\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511442546 c:\users\luiz117287\downloads\breakout\menu.h
+
+1511822410 source:c:\users\luizlucildo\downloads\the new breakout\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511787098 source:c:\users\luizlucildo\downloads\the new breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511787098 c:\users\luizlucildo\downloads\the new breakout\menu.h
+
+1511787098 source:c:\users\luizlucildo\downloads\the new breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511787100 c:\users\luizlucildo\downloads\the new breakout\tabuleiro.h
+
+1511787096 c:\users\luizlucildo\downloads\the new breakout\pecas.h
+
+1511787098 c:\users\luizlucildo\downloads\the new breakout\funcao.h
+
+1511787100 source:c:\users\luizlucildo\downloads\the new breakout\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+
+1511822395 source:c:\users\luizlucildo\downloads\the new breakout\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1511906512 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1511787098 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511787098 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\menu.h
+
+1511787098 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511787100 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\tabuleiro.h
+
+1511787096 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\pecas.h
+
+1511787098 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\funcao.h
+
+1511907248 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+
+1511907248 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1511787098 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1511787098 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\menu.h
+
+1512135139 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+
+1511787100 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\tabuleiro.h
+
+1511787096 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\pecas.h
+
+1512134104 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\funcao.h
+
+1511907248 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+
+1512135524 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+
+1512134148 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 2.0\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funcao.h"
+
+1512171181 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512171781 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\menu.h
+
+1512171181 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512171181 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1511787100 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\tabuleiro.h
+
+1512171946 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\pecas.h
+
+1512171759 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\funcao.h
+
+1512171181 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512171181 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512171181 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\ranking.h
+
+1512171245 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\the new breakout 3.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512175768 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512171781 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\menu.h
+
+1511787100 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\tabuleiro.h
+
+1512171946 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\pecas.h
+
+1512175714 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\funcao.h
+
+1512171181 c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\ranking.h
+
+1512176478 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512174850 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512175678 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512175677 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
+1512174850 source:c:\users\luizlucildo\desktop\luiz neto\upe\aulas\lpi\breakout 1.13\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"tabuleiro.h"
+	"pecas.h"
+	"funcao.h"
+	"ranking.h"
+
